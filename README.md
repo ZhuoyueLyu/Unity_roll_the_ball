@@ -3,7 +3,7 @@
 **Author**: Zhuoyue Lyu<br />
 **Time**: Jul 11-Jul 12, 2019
 ## Start the game
-If you are on the mac, you could start the game be clicking "**Game!**"
+If you are on the mac, you could start the game be clicking "**Game!.app**"
 ## How to play?
 Use your direction key to navigate the ball, try hit as many floating cubes as possible.
 ![alt text](./pic.png)
