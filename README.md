@@ -1,6 +1,6 @@
 # Unity_roll_the_ball
-Description: This is the first game project that I made using the unity!\\
-Author: Zhuoyue Lyu\\
+Description: This is the first game project that I made using the unity!<br />
+Author: Zhuoyue Lyu<br />
 Time: Jul 12, 2019
 ## Start the game
 If you are on the mac, you could start the game be clicking Game!
